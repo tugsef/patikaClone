@@ -46,12 +46,16 @@ Repository Patika.dev tarafından içeriği oluşturulmuş.[Orta Seviye Java ile
 
 > Yararlanılan kaynak [Patika.dev]([https://www.youtube.com/@KodlamaVakti](https://app.patika.dev/courses/java-102/patikaklon-8))
 
-# :envelope: Sefa Demirtaş
-Java Developer
 
 Repository Java ve Sql bilgilerimi uygulamaya çalıştığım proje yer almaktadır. İsim ve Kurumlar gerçeği yansıtmamaktadır.
 
 > İletişim Bilgilerim
 [Linkedin](https://www.linkedin.com/in/sefa-demirta%C5%9F-86b473230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfSkpaHNJQUyUX%2FAggFutbQ%3D%3D)
 
+|***Sefa Demirtaş***|
+|:-------------|
+|*Java Developer*|
+|[Linkedin](linkedin.com/in/sefa-demirtaş-86b473230)|
+|[Patika.dev](https://app.patika.dev/sefad)|
+|sefa.demirtas91@gmail.com|
 
