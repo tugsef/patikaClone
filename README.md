@@ -44,10 +44,10 @@ Repository Patika.dev tarafından içeriği oluşturulmuş.[Orta Seviye Java ile
 </details>
 
 
-> Yararlanılan kaynak [Patika.dev]([https://www.youtube.com/@KodlamaVakti](https://app.patika.dev/courses/java-102/patikaklon-8))
+> Yararlanılan kaynak [Patika.dev](https://app.patika.dev/courses/java-102/patikaklon-8)
 
 
-Repository Java ve Sql bilgilerimi uygulamaya çalıştığım proje yer almaktadır. İsim ve Kurumlar gerçeği yansıtmamaktadır.
+Repository Java ve Sql bilgilerimi uygulamaya çalıştığım proje yer almaktadır.
 
 
  # :e-mail: Contact
