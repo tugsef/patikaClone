@@ -50,12 +50,11 @@ Repository Patika.dev tarafından içeriği oluşturulmuş.[Orta Seviye Java ile
 Repository Java ve Sql bilgilerimi uygulamaya çalıştığım proje yer almaktadır. İsim ve Kurumlar gerçeği yansıtmamaktadır.
 
 
-# :e-mail: Contact
-
+ # :e-mail: Contact
 |***Sefa Demirtaş***|
 |:-------------|
 |*Java Developer*|
-|[Linkedin](linkedin.com/in/sefa-demirtaş-86b473230)|
+|[Linkedin](https://www.linkedin.com/in/sefa-demirta%C5%9F-86b473230/)|
 |[Patika.dev](https://app.patika.dev/sefad)|
 |sefa.demirtas91@gmail.com|
 
